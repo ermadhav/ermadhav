@@ -19,22 +19,26 @@ Here are some of the tools and technologies I work with:
 - Tools: [Git, Docker, etc.]
 
 ## 📊 GitHub Stats
+![ermadhav's Stats](https://github-readme-stats.vercel.app/api?username=ermadhav&theme=radical&show_icons=true&hide_border=false&count_private=true)
+![ermadhav's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ermadhav&theme=radical&hide_border=false)
+![ermadhav's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ermadhav&theme=radical&show_icons=true&hide_border=false&layout=compact)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+## 📊 Geeks For Geeks Stats
+
+![ermadhav's Streak](https://gfgstatscard.vercel.app/ermadhavtiwari?theme=dark)
 
 ## 🌟 Top Projects
 
 - ChatApp(https://github.com/ermadhav/ChatApp)  
   A Chat and Video Call App with Stranger Connectivity 🌐🎥💬.
-  
-- [Another Project Name](Link to Repo)  
-  Brief description.
 
 ## 🌐 Connect with Me
+<a href="www.linkedin.com/in/ermadhav"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" height="30"></a>
+<a href="https://madhavtiwari.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-orange" height="30"></a>
+<a href="https://x.com/MadhavT50928649"><img src="https://img.shields.io/badge/Twitter-blue?logo=twitter" height="30"></a>
+<a href="https://www.instagram.com/madhav_tiwari24/"><img src="https://img.shields.io/badge/Instagram-royalblue?logo=instagram" height="30"></a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/ermadhav)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-orange)](https://madhavtiwari.netlify.app/)  
-[![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter)](https://x.com/MadhavT50928649)
 
 ---
 
