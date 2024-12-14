@@ -15,8 +15,8 @@ Hi there! I'm Madhav Tiwari, a passionate MERN Developer who loves creating, lea
 Here are some of the tools and technologies I work with:
 
 - Programming Languages: ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) ![Python](https://img.shields.io/badge/-Python-blue) [Add your languages]
-- Frameworks: [React, Django, etc.]
-- Tools: [Git, Docker, etc.]
+- Frameworks: Node, React, Express, MongoDB, And Many More
+- Tools: Git
 
 ## 📊 GitHub Stats
 ![ermadhav's Stats](https://github-readme-stats.vercel.app/api?username=ermadhav&theme=radical&show_icons=true&hide_border=false&count_private=true)
