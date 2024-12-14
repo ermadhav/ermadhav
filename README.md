@@ -4,11 +4,11 @@ Hi there! I'm Madhav Tiwari, a passionate MERN Developer who loves creating, lea
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **[Your Current Project/Area of Focus]**
-- 🌱 I’m learning **[Current Skills/Technologies]**
-- 💬 Ask me about **[Your Expertise or Interests]**
-- 📫 How to reach me: [Your Email or Social Links]
-- ⚡ Fun fact: [A Fun Fact About You]
+- 🔭 I’m currently working on **ReactJs**
+- 🌱 I’m learning **MERN Stack**
+- 💬 Ask me about **Web Development**
+- 📫 How to reach me: madhavtiwari2024@gmail.com
+- ⚡ Fun fact: I am the Who Loves two things Space🚀 and Coding. 
 
 ## 🛠️ Technologies & Tools
 
