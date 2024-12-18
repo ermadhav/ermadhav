@@ -18,15 +18,23 @@ Here are some of the tools and technologies I work with:
 - Frameworks: Node, React, Express, MongoDB, And Many More
 - Tools: Git
 
-## 📊 GitHub Stats
-![ermadhav's Stats](https://github-readme-stats.vercel.app/api?username=ermadhav&theme=radical&show_icons=true&hide_border=false&count_private=true)
-![ermadhav's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ermadhav&theme=radical&hide_border=false)
-![ermadhav's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ermadhav&theme=radical&show_icons=true&hide_border=false&layout=compact)
+## 📊 GitHub Stats                                                                                                                                                      
+![ermadhav's Stats](https://github-readme-stats.vercel.app/api?username=ermadhav&theme=radical&show_icons=true&hide_border=false&count_private=true)                     
+![ermadhav's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ermadhav&theme=radical&show_icons=true&hide_border=false&layout=compact)      
 
 
 ## 📊 Geeks For Geeks Stats
 
 ![ermadhav's Streak](https://gfgstatscard.vercel.app/ermadhavtiwari?theme=dark)
+
+##
+
+Got it! Here's your stats organized in a tabular form with names in rows and stats in columns:
+
+| **GitHub Stats**                                      | **Geeks For Geeks Stats**                          |
+|------------------------------------------------------|----------------------------------------------------|
+| ![ermadhav's Stats](https://github-readme-stats.vercel.app/api?username=ermadhav&theme=radical&show_icons=true&hide_border=false&count_private=true)  | ![ermadhav's Streak](https://gfgstatscard.vercel.app/ermadhavtiwari?theme=dark)  |
+| ![ermadhav's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ermadhav&theme=radical&show_icons=true&hide_border=false&layout=compact) |  |
 
 ## 🌟 Top Projects
 
