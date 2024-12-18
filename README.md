@@ -30,8 +30,8 @@ Here are some of the tools and technologies I work with:
 
 ## 🌟 Top Projects
 
-- ChatApp(https://github.com/ermadhav/ChatApp)  
-  A Chat and Video Call App with Stranger Connectivity 🌐🎥💬.
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ermadhav&repo=ChatApp&theme=dark)](https://github.com/ermadhav/ChatApp)
+A Chat and Video Call App with Stranger Connectivity 🌐🎥💬.
 
 ## 🌐 Connect with Me
 <a href="https://www.linkedin.com/in/ermadhav/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" height="30"></a>
@@ -43,7 +43,7 @@ Here are some of the tools and technologies I work with:
 [![Madhav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ermadhav&theme=github-compact)](https://github.com/ermadhav/github-readme-activity-graph) 
 ###
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ermadhav&repo=ChatApp)](https://github.com/ermadhav/ChatApp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ermadhav&repo=ChatApp&theme=dark)](https://github.com/ermadhav/ChatApp)
 
 🌟 **“Code is like humor. When you have to explain it, it’s bad.”**  
 Happy coding!
