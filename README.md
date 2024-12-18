@@ -41,6 +41,9 @@ Here are some of the tools and technologies I work with:
 
 
 ---
+[![Madhav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ermadhav&theme=react-dark	)](https://github.com/ermadhav/github-readme-activity-graph) ---
 
 🌟 **“Code is like humor. When you have to explain it, it’s bad.”**  
 Happy coding!
+
+
