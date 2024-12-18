@@ -39,9 +39,9 @@ Here are some of the tools and technologies I work with:
 <a href="https://x.com/MadhavT50928649"><img src="https://img.shields.io/badge/Twitter-blue?logo=twitter" height="30"></a>
 <a href="https://www.instagram.com/madhav_tiwari24/"><img src="https://img.shields.io/badge/Instagram-royalblue?logo=instagram" height="30"></a>
 
-
----
-[![Madhav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ermadhav&theme=react-dark	)](https://github.com/ermadhav/github-readme-activity-graph) ---
+###
+[![Madhav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ermadhav&theme=github-compact)](https://github.com/ermadhav/github-readme-activity-graph) 
+###
 
 🌟 **“Code is like humor. When you have to explain it, it’s bad.”**  
 Happy coding!
