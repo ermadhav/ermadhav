@@ -30,7 +30,7 @@ Here are some of the tools and technologies I work with:
 
 ## 🌟 Top Projects
 
-[![A Chat and Video Call App with Stranger Connectivity 🌐🎥💬.](https://github-readme-stats.vercel.app/api/pin/?username=ermadhav&repo=ChatApp&theme=dark)](https://github.com/ermadhav/ChatApp)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=ermadhav&repo=ChatApp&theme=dark)](https://github.com/ermadhav/ChatApp)
 
 ## 🌐 Connect with Me
 <a href="https://www.linkedin.com/in/ermadhav/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" height="30"></a>
