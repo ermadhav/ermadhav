@@ -43,6 +43,8 @@ Here are some of the tools and technologies I work with:
 [![Madhav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ermadhav&theme=github-compact)](https://github.com/ermadhav/github-readme-activity-graph) 
 ###
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ermadhav&repo=ChatApp)](https://github.com/ermadhav/ChatApp)
+
 🌟 **“Code is like humor. When you have to explain it, it’s bad.”**  
 Happy coding!
 
