@@ -32,15 +32,6 @@ Here are some of the tools and technologies I work with:
 [![](https://github-readme-stats.vercel.app/api/pin/?username=ermadhav&repo=ChatApp&theme=dark)](https://github.com/ermadhav/ChatApp)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=ermadhav&repo=Social_Media_App&theme=dark)](https://github.com/ermadhav/Social_Media_App)
 
-To remove the borders and organize the stats in a row and column form, here’s how you can do it:
-
-| **GitHub Stats**                                                                 | **Geeks For Geeks Stats**                                          |
-|---------------------------------------------------------------------------------|--------------------------------------------------------------------|
-| ![ermadhav's Stats](https://github-readme-stats.vercel.app/api?username=ermadhav&theme=radical&show_icons=true&count_private=true) | ![ermadhav's Streak](https://gfgstatscard.vercel.app/ermadhavtiwari?theme=dark) |
-| ![ermadhav's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ermadhav&theme=radical&layout=compact) |                                                                    |
-
-This will display both sets of stats in a simple row and column format with no borders.
-
 ###
 [![Madhav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ermadhav&theme=github-compact)](https://github.com/ermadhav/github-readme-activity-graph) 
 ###
