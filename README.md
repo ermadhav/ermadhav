@@ -8,7 +8,7 @@ Hi there! I'm Madhav Tiwari, a passionate MERN Developer who loves creating, lea
 - 🌱 I’m learning **MERN Stack**
 - 💬 Ask me about **Web Development**
 - 📫 How to reach me: madhavtiwari2024@gmail.com
-- ⚡ Fun fact: I am someone who loves two things: Space 🚀 and Coding. 
+- ⚡ Fun fact: I am someone who loves two things: Space 🚀 and Coding.
 
 ## 🛠️ Technologies & Tools
 
