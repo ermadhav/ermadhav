@@ -26,7 +26,7 @@ Here are some of the tools and technologies I work with:
 ![ermadhav's Streak](https://gfgstatscard.vercel.app/ermadhavtiwari?theme=dark)
 
 ## 📊 Leetcode Stats
-![Leetcode Stats](https://leetcard.ermadhav/lapor?ext=heatmap)
+![](https://leetcard.jacoblin.cool/ermadhav?ext=heatmap)
 
 ## 🌟 Top Projects
 
