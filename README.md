@@ -18,9 +18,19 @@ Here are some of the tools and technologies I work with:
 - Frameworks: Node, React, Express, MongoDB, And Many More
 - Tools: Git
   
-## 📊 GitHub Stats                                                                                                                                                      
-![ermadhav's Stats](https://github-readme-stats.vercel.app/api?username=ermadhav&theme=radical&show_icons=true&hide_border=false&count_private=true)                     
-![ermadhav's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ermadhav&theme=radical&show_icons=true&hide_border=false&layout=compact)      
+## 📊 GitHub Stats
+
+<table style="border: none;">
+  <tr>
+    <td style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=ermadhav&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="ermadhav's Stats">
+    </td>
+    <td style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ermadhav&theme=radical&show_icons=true&hide_border=false&layout=compact" alt="ermadhav's Top Languages">
+    </td>
+  </tr>
+</table>
+
 
 ## 📊 My Coding Stats
 
