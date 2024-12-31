@@ -22,12 +22,19 @@ Here are some of the tools and technologies I work with:
 ![ermadhav's Stats](https://github-readme-stats.vercel.app/api?username=ermadhav&theme=radical&show_icons=true&hide_border=false&count_private=true)                     
 ![ermadhav's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ermadhav&theme=radical&show_icons=true&hide_border=false&layout=compact)      
 
+## 📊 My Coding Stats
+
 <table>
   <tr>
-    <td><img src="https://gfgstatscard.vercel.app/ermadhavtiwari?theme=dark" alt="GeeksforGeeks Stats"></td>
-    <td><img src="https://leetcard.jacoblin.cool/ermadhav?ext=heatmap" alt="Leetcode Stats"></td>
+    <td>
+      <img src="https://gfgstatscard.vercel.app/ermadhavtiwari?theme=dark" alt="GeeksforGeeks Stats">
+    </td>
+    <td>
+      <img src="https://leetcard.jacoblin.cool/ermadhav?ext=heatmap" alt="Leetcode Stats">
+    </td>
   </tr>
 </table>
+
 
 ## 🌟 Top Projects
 
