@@ -25,21 +25,12 @@ Here are some of the tools and technologies I work with:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ermadhav&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="ermadhav's Top Languages" />
 </div>
 
-
-
 ## 📊 My Coding Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://gfgstatscard.vercel.app/ermadhavtiwari?theme=dark" alt="GeeksforGeeks Stats">
-    </td>
-    <td>
-      <img src="https://leetcard.jacoblin.cool/ermadhav?ext=heatmap" alt="Leetcode Stats">
-    </td>
-  </tr>
-</table>
-
+<div align="center">
+  <img src="https://gfgstatscard.vercel.app/ermadhavtiwari?theme=dark" alt="GeeksforGeeks Stats" />
+  <img src="https://leetcard.jacoblin.cool/ermadhav?ext=heatmap" alt="Leetcode Stats" />
+</div>
 
 ## 🌟 Top Projects
 
