@@ -1,4 +1,4 @@
-# 👋 Welcome to My GitHub Profile!
+v# 👋 Welcome to My GitHub Profile!
 
 Hi there! I'm Madhav Tiwari, a passionate MERN Developer who loves creating, learning, and sharing knowledge through code. 🌟
 
@@ -26,7 +26,7 @@ Here are some of the tools and technologies I work with:
 ![ermadhav's Streak](https://gfgstatscard.vercel.app/ermadhavtiwari?theme=dark)
 
 ## 📊 Leetcode Stats
-![Leetcode Stats](https://leetcard.jacoblin.cool/lapor?ext=heatmap)
+![Leetcode Stats](https://leetcard.ermadhav/lapor?ext=heatmap)
 
 ## 🌟 Top Projects
 
