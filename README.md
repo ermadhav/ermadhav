@@ -21,8 +21,8 @@ Here are some of the tools and technologies I work with:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ermadhav&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="ermadhav's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ermadhav&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="ermadhav's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ermadhav&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="ermadhav's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ermadhav&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="ermadhav's Top Languages" />
 </div>
 
 ## 📊 My Coding Stats
