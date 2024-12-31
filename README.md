@@ -28,9 +28,10 @@ Here are some of the tools and technologies I work with:
 ## 📊 My Coding Stats
 
 <div align="center">
-  <img src="https://gfgstatscard.vercel.app/ermadhavtiwari?theme=dark" alt="GeeksforGeeks Stats" />
-  <img src="https://leetcard.jacoblin.cool/ermadhav?ext=heatmap" alt="Leetcode Stats" />
+  <img src="https://gfgstatscard.vercel.app/ermadhavtiwari?theme=dark" alt="GeeksforGeeks Stats" style="display: inline-block; width: 48%;" />
+  <img src="https://leetcard.jacoblin.cool/ermadhav?ext=heatmap" alt="Leetcode Stats" style="display: inline-block; width: 48%;" />
 </div>
+
 
 ## 🌟 Top Projects
 
