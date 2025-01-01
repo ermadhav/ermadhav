@@ -1,4 +1,4 @@
-v# 👋 Welcome to My GitHub Profile!
+👋 Welcome to My GitHub Profile!
 
 Hi there! I'm Madhav Tiwari, a passionate MERN Developer who loves creating, learning, and sharing knowledge through code. 🌟
 
