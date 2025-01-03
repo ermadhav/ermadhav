@@ -36,8 +36,8 @@ Here are some of the tools and technologies I work with:
 ## 🌟 Top Projects
 
 <div style="display: flex; justify-content: space-between;">
-  [![](https://github-readme-stats.vercel.app/api/pin/?username=ermadhav&repo=ChatApp&theme=dark&width=200&height=200)](https://github.com/ermadhav/ChatApp)
-  [![](https://github-readme-stats.vercel.app/api/pin/?username=ermadhav&repo=Leetcode_Solution&theme=dark&width=200&height=200)](https://github.com/ermadhav/Leetcode_Solution)
+  [![](https://github-readme-stats.vercel.app/api/pin/?username=ermadhav&repo=ChatApp&theme=dark)](https://github.com/ermadhav/ChatApp)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=ermadhav&repo=Leetcode_Solution&theme=dark)](https://github.com/ermadhav/Leetcode_Solution)
 </div>
 
 
