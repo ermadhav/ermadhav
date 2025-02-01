@@ -21,9 +21,10 @@ Here are some of the tools and technologies I work with:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ermadhav&theme=dark&hide_border=true" alt="ermadhav's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ermadhav&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="ermadhav's GitHub Stats" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ermadhav&theme=dark&hide_border=true" alt="ermadhav's GitHub Stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ermadhav&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="ermadhav's GitHub Stats" width="400" /> 
 </div>
+
 
 ### 🏆 Achievements
 [![trophy](https://github-profile-trophy.vercel.app/?username=ermadhav&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
