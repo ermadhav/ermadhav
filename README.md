@@ -44,6 +44,25 @@ Here are some of the tools and technologies I work with:
 [![](https://github-readme-stats.vercel.app/api/pin/?username=ermadhav&repo=ChatApp&theme=dark&width=200&height=200)](https://github.com/ermadhav/ChatApp)  [![](https://github-readme-stats.vercel.app/api/pin/?username=ermadhav&repo=Leetcode_Solution&theme=dark&width=200&height=200)](https://github.com/ermadhav/Leetcode_Solution)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=ermadhav&repo=Moviedux&theme=dark&width=200&height=200)](https://github.com/ermadhav/Moviedux)  [![](https://github-readme-stats.vercel.app/api/pin/?username=ermadhav&repo=Leetcode_SQl_Solutions&theme=dark&width=200&height=200)](https://github.com/ermadhav/Leetcode_SQl_Solutions)
 
+
+<p align="center">
+  <a href="https://github.com/ermadhav/ChatApp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ermadhav&repo=ChatApp&theme=dark" width="400"/>
+  </a>
+  <a href="https://github.com/ermadhav/Leetcode_Solution">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ermadhav&repo=Leetcode_Solution&theme=dark" width="400"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ermadhav/Moviedux">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ermadhav&repo=Moviedux&theme=dark" width="400"/>
+  </a>
+  <a href="https://github.com/ermadhav/Leetcode_SQl_Solutions">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ermadhav&repo=Leetcode_SQl_Solutions&theme=dark" width="400"/>
+  </a>
+</p>
+
 ###
 [![Madhav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ermadhav&theme=github-compact)](https://github.com/ermadhav/github-readme-activity-graph) 
 ###
