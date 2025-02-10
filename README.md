@@ -42,7 +42,7 @@ Here are some of the tools and technologies I work with:
 
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=ermadhav&repo=ChatApp&theme=dark&width=200&height=200)](https://github.com/ermadhav/ChatApp)  [![](https://github-readme-stats.vercel.app/api/pin/?username=ermadhav&repo=Leetcode_Solution&theme=dark&width=200&height=200)](https://github.com/ermadhav/Leetcode_Solution)
-
+[![](https://github-readme-stats.vercel.app/api/pin/?username=ermadhav&repo=Moviedux&theme=dark&width=200&height=200)](https://github.com/ermadhav/Moviedux)  [![](https://github-readme-stats.vercel.app/api/pin/?username=ermadhav&repo=Leetcode_Solution&theme=dark&width=200&height=200)](https://github.com/ermadhav/Leetcode_Solution)
 
 ###
 [![Madhav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ermadhav&theme=github-compact)](https://github.com/ermadhav/github-readme-activity-graph) 
