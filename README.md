@@ -4,7 +4,7 @@ Hi there! I'm Madhav Tiwari, a passionate MERN Developer who loves creating, lea
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **ReactJs**
+- 🔭 I’m currently working on **Mood Based Music Recommendation WebApp**
 - 🌱 I’m learning **MERN Stack**
 - 💬 Ask me about **Web Development**
 - 📫 How to reach me: contact.madhavtiwari@gmail.com
