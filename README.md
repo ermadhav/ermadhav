@@ -26,7 +26,10 @@ Here are some of the tools and technologies I work with:
 </div>
 
 ## 🏆Leetcode Badges
-[![LeetCode user ermadhav](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fermadhav%2Fcn%2F&logo=leetcode&logoColor=yellow)](https://leetcode.cn/ermadhav/)
+
+<p align="left">
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=ermadhav&theme=dark&border=no-border&animated=true" alt="LeetCode Stats"/>
+</p>
 
 ## 🚀 Languages and Tools
 
