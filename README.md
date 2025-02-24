@@ -31,9 +31,9 @@ Here are some of the tools and technologies I work with:
   <img src="https://leetcode-badge-showcase.vercel.app/api?username=ermadhav&theme=dark&border=no-border&animated=true" alt="LeetCode Stats"/>
 </p>
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=ermadhav)](https://github.com/KnlnKS/leetcode-stats)
-## 🚀 Languages and Tools
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=ermadhav&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
+## 🚀 Languages and Tools
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="70" height="70"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="70" height="70"/>
