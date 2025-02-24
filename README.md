@@ -31,8 +31,7 @@ Here are some of the tools and technologies I work with:
   <img src="https://leetcode-badge-showcase.vercel.app/api?username=ermadhav&theme=dark&border=no-border&animated=true" alt="LeetCode Stats"/>
 </p>
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?ermadhav=KnlnKS)](https://github.com/KnlnKS/leetcode-stats)
-
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=ermadhav&CN)](https://github.com/ermadhav/leetcode-stats)
 ## 🚀 Languages and Tools
 
 <p align="left"> 
