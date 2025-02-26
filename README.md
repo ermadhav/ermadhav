@@ -87,7 +87,7 @@ Here are some of the tools and technologies I work with:
 
 ## 🌐 Connect with Me
 <a href="https://www.linkedin.com/in/ermadhav/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" height="30"></a>
-<a href="https://madhavtiwari.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-orange" height="30"></a>
+<a href="https://madhavtiwari.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-orange" height="30"></a>
 <a href="https://x.com/MadhavT50928649"><img src="https://img.shields.io/badge/Twitter-blue?logo=twitter" height="30"></a>
 <a href="https://www.instagram.com/believeinmadhav/"><img src="https://img.shields.io/badge/Instagram-royalblue?logo=instagram" height="30"></a>
 
