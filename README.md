@@ -28,7 +28,8 @@ Here are some of the tools and technologies I work with:
 ## 🏆Leetcode Badges
 
 <p align="left">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=ermadhav&theme=dark&border=no-border&animated=true" alt="LeetCode Stats"/>
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=ermadhav&border=no-border&animated=true" alt="LeetCode Stats"/>
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=ermadhav" alt="LeetCode Badges"/>
 </p>
 
 ## 🚀 Languages and Tools
