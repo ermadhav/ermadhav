@@ -82,8 +82,9 @@ Here are some of the tools and technologies I work with:
   </a>
 </p>
 
+
 ###
-[![Madhav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ermadhav&theme=github-compact)](https://github.com/ermadhav/github-readme-activity-graph) 
+[![Madhav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ermadhav&theme=github-compact)](https://github.com/ermadhav/github-readme-activity-graph)
 ###
 
 ## 🌐 Connect with Me
