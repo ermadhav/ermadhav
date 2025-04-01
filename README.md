@@ -4,11 +4,11 @@ Hi there! I'm Madhav Tiwari, a passionate MERN Developer who loves creating, lea
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **Mood Based Music Recommendation WebApp**
-- 🌱 I’m currently learning **ReactJs**
+- 🔭 I’m currently working on **Video Surveillance Web App**
+- 🌱 I’m currently learning **NextJs**
 - 💬 Ask me about **Web Development**
 - 📫 How to reach me: contact.madhavtiwari@gmail.com
-- ⚡ Fun fact: I am someone who loves two things: Space 🚀 and Coding.
+- ⚡ Fun fact: I am someone who loves two things: Space 🚀 and Coding. That's why you can call me Cosmo Coder.
 
 ## 🛠️ Technologies & Tools
 
