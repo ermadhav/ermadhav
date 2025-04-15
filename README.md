@@ -27,6 +27,8 @@ Here are some of the tools and technologies I work with:
 
 ## 🏆Leetcode Badges
 
+<a href="https://leetcode.com/ermadhav/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="LeetCode Badge" height="200" width="200" /></a>
+<a href="https://leetcode.com/ermadhav/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="LeetCode Badge" height="200" width="200" /></a>
 <p align="left">
 <!--   <img src="https://leetcode-badge-showcase.vercel.app/api?username=ermadhav&border=no-border&animated=true" alt="LeetCode Stats"/> -->
   <img src="https://leetcode-badge-showcase.vercel.app/api?username=ermadhav&theme=dark" alt="LeetCode Badges"/>
