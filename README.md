@@ -27,8 +27,14 @@ Here are some of the tools and technologies I work with:
 
 ## 🏆Leetcode Badges
 
-<a href="https://leetcode.com/ermadhav/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="LeetCode Badge" height="200" width="200" /></a>
-<a href="https://leetcode.com/ermadhav/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="LeetCode Badge" height="200" width="200" /></a>
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <a href="https://leetcode.com/mohitkumhar/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="LeetCode Badge" height="200" width="200" />
+  </a>
+  <a href="https://leetcode.com/mohitkumhar/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="LeetCode Badge" height="200" width="200" />
+  </a>
+</div>
 
 ## 🚀 Languages and Tools
 <p align="left"> 
