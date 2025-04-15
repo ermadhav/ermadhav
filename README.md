@@ -28,10 +28,10 @@ Here are some of the tools and technologies I work with:
 ## 🏆Leetcode Badges
 
 <div style="text-align: center;">
-  <a href="https://leetcode.com/mohitkumhar/" target="_blank">
+  <a href="https://leetcode.com/ermadhav/" target="_blank">
     <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="LeetCode Badge" height="200" width="200" />
   </a>
-  <a href="https://leetcode.com/mohitkumhar/" target="_blank">
+  <a href="https://leetcode.com/ermadhav/" target="_blank">
     <img src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="LeetCode Badge" height="200" width="200" />
   </a>
 </div>
