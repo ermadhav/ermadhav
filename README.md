@@ -14,7 +14,7 @@ Hi there! I'm Madhav Tiwari, a passionate MERN Developer who loves creating, lea
 
 Here are some of the tools and technologies I work with:
 
-- Programming Languages: ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) ![JAVA](https://img.shields.io/badge/-Java-blue) ![Python](https://img.shields.io/badge/-Python-blue)  
+- Programming Languages: ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) ![JAVA](https://img.shields.io/badge/-Java-blue) ![Python](https://img.shields.io/badge/-Python-purple)  
 - Frameworks: Node, React, Express, MongoDB, And Many More
 - Tools: Git
   
