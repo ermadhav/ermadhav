@@ -59,9 +59,6 @@ Here are some of the tools and technologies I work with:
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="70" height="70"/>
 </p>
 
-
-
-
 ## 📊 My Coding Stats
 
 <div align="center">
