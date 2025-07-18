@@ -4,13 +4,10 @@ Hi there! I'm Madhav Tiwari, a passionate MERN Developer who loves creating, lea
 
 ## 🚀 About Me
 
-- 🔍 Diving deep into Data Structures & Algorithms — one problem at a time
-- 🧠 Sharpening logic, mastering patterns, and loving the grind
-- 📚 On a break from projects, building a solid foundation first
-- 💬 Ask me about **Web Development**
-- 📫 How to reach me: contact.madhavtiwari@gmail.com
-- ⚡ Fun fact: I am someone who loves two things: Space 🚀 and Coding. That's why you can call me Cosmo Coder.
 - 👨‍💻 Cracked 400+ LeetCode problems in Java — because debugging is my cardio.
+- 💬 Ask me about **Web Development**
+- ⚡ Fun fact: I am someone who loves two things: Space 🚀 and Coding. That's why you can call me Cosmo Coder.
+- 📫 How to reach me: contact.madhavtiwari@gmail.com
 
 ## 🛠️ Technologies & Tools
 
