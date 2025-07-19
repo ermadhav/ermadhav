@@ -29,7 +29,7 @@ Here are some of the tools and technologies I work with:
 ## 🏆Leetcode Badges
 
 <div style="text-align: center;">
-  <a href="https://leetcode.com/ermadhav/" target="_blank">
+<!--   <a href="https://leetcode.com/ermadhav/" target="_blank">
     <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="LeetCode Badge" height="200" width="200" />
   </a>
   <a href="https://leetcode.com/ermadhav/" target="_blank">
@@ -37,8 +37,21 @@ Here are some of the tools and technologies I work with:
   </a>
   <a href="https://leetcode.com/ermadhav/" target="_blank">
     <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="LeetCode Badge" height="200" width="200" />
+  </a> -->
+</div>
+
+<div style="text-align: center;">
+  <a href="https://leetcode.com/ermadhav/" target="_blank" style="display: inline-block; margin: 0 10px;">
+    <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="LeetCode Badge" height="200" width="200" />
+  </a>
+  <a href="https://leetcode.com/ermadhav/" target="_blank" style="display: inline-block; margin: 0 10px;">
+    <img src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="LeetCode Badge" height="200" width="200" />
+  </a>
+  <a href="https://leetcode.com/ermadhav/" target="_blank" style="display: inline-block; margin: 0 10px;">
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="LeetCode Badge" height="200" width="200" />
   </a>
 </div>
+
 
 
 ## 🚀 Languages and Tools
