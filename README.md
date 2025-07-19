@@ -35,6 +35,9 @@ Here are some of the tools and technologies I work with:
   <a href="https://leetcode.com/ermadhav/" target="_blank">
     <img src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="LeetCode Badge" height="200" width="200" />
   </a>
+  <a href="https://leetcode.com/ermadhav/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/others/25200.gif" alt="LeetCode Badge" height="200" width="200" />
+  </a>
 </div>
 
 
