@@ -40,6 +40,14 @@ Here are some of the tools and technologies I work with:
   </a>
 </div>
 
+## 📊 My Coding Stats
+
+<div align="center">
+  <img src="https://gfgstatscard.vercel.app/ermadhavtiwari?theme=dark" alt="GeeksforGeeks Stats" style="display: inline-block; width: 48%;" />
+  <img src="https://leetcard.jacoblin.cool/ermadhav?ext=heatmap" alt="Leetcode Stats" style="display: inline-block; width: 48%;" />
+</div>
+
+
 ## 🚀 Languages and Tools
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="70" height="70"/>
@@ -59,14 +67,6 @@ Here are some of the tools and technologies I work with:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="70" height="70"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="70" height="70"/>
 </p>
-
-## 📊 My Coding Stats
-
-<div align="center">
-  <img src="https://gfgstatscard.vercel.app/ermadhavtiwari?theme=dark" alt="GeeksforGeeks Stats" style="display: inline-block; width: 48%;" />
-  <img src="https://leetcard.jacoblin.cool/ermadhav?ext=heatmap" alt="Leetcode Stats" style="display: inline-block; width: 48%;" />
-</div>
-
 
 ## 🌟 Top Projects
 
