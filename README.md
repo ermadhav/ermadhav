@@ -6,7 +6,6 @@ I'm Madhav Tiwari, a passionate MERN Developer who loves creating, learning, and
 
 - 👨‍💻 Cracked 400+ LeetCode problems in Java.
 - 💬 Ask me about **Web Development**
-- ⚡ Fun fact: I am someone who loves two things: Space 🚀 and Coding. That's why you can call me Cosmo Coder.
 - ⚡ Fun fact: Obsessed with code and cosmos, so just call me Cosmo Coder. 🚀💻"
 - 📫 How to reach me: contact.madhavtiwari@gmail.com
 
