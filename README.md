@@ -82,7 +82,7 @@ Here are some of the tools and technologies I work with:
   <a href="https://github.com/ermadhav/Moviedux">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ermadhav&repo=Moviedux&theme=dark" width="400"/>
   </a>
-  <a href="https://github.com/ermadhav/Leetcode_SQl_Solutions">
+  <a href="https://github.com/ermadhav/Iss_Tracker">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ermadhav&repo=Leetcode_SQl_Solutions&theme=dark" width="400"/>
   </a>
 </p>
