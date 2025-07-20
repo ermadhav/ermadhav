@@ -1,6 +1,6 @@
 👋 Welcome to My GitHub Profile!
 
-Hi there! I'm Madhav Tiwari, a passionate MERN Developer who loves creating, learning, and sharing knowledge through code. 🌟
+I'm Madhav Tiwari, a passionate MERN Developer who loves creating, learning, and sharing knowledge through code. 🌟
 
 ## 🚀 About Me
 
