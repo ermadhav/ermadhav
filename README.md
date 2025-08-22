@@ -97,7 +97,7 @@ Here are some of the tools and technologies I work with:
 <a href="https://madhavtiwari.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-orange" height="30"></a>
 <a href="https://x.com/madhavtiwari24"><img src="https://img.shields.io/badge/Twitter-blue?logo=twitter" height="30"></a>
 <a href="https://www.instagram.com/madhav.tiwari24/"><img src="https://img.shields.io/badge/Instagram-royalblue?logo=instagram" height="30"></a>
-
+![Profile view counter](https://komarev.com/ghpvc/?username=ermadhav)
 ###
 
 🌟 **“Code is like humor. When you have to explain it, it’s bad.”**  
