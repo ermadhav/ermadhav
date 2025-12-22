@@ -29,13 +29,13 @@ Here are some of the tools and technologies I work with:
 ## 🏆Leetcode Badges
 
 <div style="text-align: center;">
-  <a href="https://leetcode.com/ermadhav/" target="_blank" style="display: inline-block; margin: 0 10px;">
+  <a href="https://leetcode.com/cosmocoders/" target="_blank" style="display: inline-block; margin: 0 10px;">
     <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="LeetCode Badge" height="200" width="200" />
   </a>
-  <a href="https://leetcode.com/ermadhav/" target="_blank" style="display: inline-block; margin: 0 10px;">
+  <a href="https://leetcode.com/cosmocoders/" target="_blank" style="display: inline-block; margin: 0 10px;">
     <img src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="LeetCode Badge" height="200" width="200" />
   </a>
-  <a href="https://leetcode.com/ermadhav/" target="_blank" style="display: inline-block; margin: 0 10px;">
+  <a href="https://leetcode.com/cosmocoders/" target="_blank" style="display: inline-block; margin: 0 10px;">
     <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="LeetCode Badge" height="200" width="200" />
   </a>
 </div>
@@ -44,7 +44,7 @@ Here are some of the tools and technologies I work with:
 
 <div align="center">
   <img src="https://gfgstatscard.vercel.app/ermadhavtiwari?theme=dark" alt="GeeksforGeeks Stats" style="display: inline-block; width: 48%;" />
-  <img src="https://leetcard.jacoblin.cool/ermadhav?ext=heatmap" alt="Leetcode Stats" style="display: inline-block; width: 48%;" />
+  <img src="https://leetcard.jacoblin.cool/cosmocoders?ext=heatmap" alt="Leetcode Stats" style="display: inline-block; width: 48%;" />
 </div>
 
 
