@@ -38,6 +38,9 @@ Here are some of the tools and technologies I work with:
   <a href="https://leetcode.com/cosmocoders/" target="_blank" style="display: inline-block; margin: 0 10px;">
     <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="LeetCode Badge" height="200" width="200" />
   </a>
+  <a href="https://leetcode.com/cosmocoders/" target="_blank" style="display: inline-block; margin: 0 10px;">
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-365.gif" alt="LeetCode Badge" height="200" width="200" />
+  </a>
 </div>
 
 ## 📊 My Coding Stats
