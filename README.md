@@ -48,7 +48,6 @@ Here are some of the tools and technologies I work with:
   <img src="https://leetcard.jacoblin.cool/cosmocoders?ext=heatmap" alt="Leetcode Stats" style="display: inline-block; width: 48%;" />
 </div>
 
-
 ## 🚀 Languages and Tools
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="70" height="70"/>
