@@ -77,7 +77,6 @@ Here are some of the tools and technologies I work with:
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ermadhav&repo=Leetcode_Solution&theme=dark" width="400"/>
   </a>
 </p>
-
 <p align="center">
   <a href="https://github.com/ermadhav/Moviedux">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ermadhav&repo=Moviedux&theme=dark" width="400"/>
