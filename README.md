@@ -1,5 +1,4 @@
 👋 Welcome to My GitHub Profile!
-
 I'm Madhav Tiwari, a passionate MERN Developer who loves creating, learning, and sharing knowledge through code. 🌟
 ## 🚀 About Me
 - 👨‍💻 Cracked 550+ LeetCode problems in Java.
