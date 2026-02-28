@@ -14,7 +14,6 @@ Here are some of the tools and technologies I work with:
 - Databases: MongoDB, MySQL, PostgreSQL
 - Tools: Git, Linux
 
-  
 ## 📊 GitHub Stats
 
 <div align="center">
