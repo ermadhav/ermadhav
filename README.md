@@ -21,7 +21,7 @@ Here are some of the tools and technologies I work with:
   <img src="https://github-readme-stats.vercel.app/api?username=ermadhav&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="ermadhav's GitHub Stats" width="400" /> 
 </div>
 
-## 🏆Leetcode Badges
+## 🏆Leetcode Badges 
 
 <div style="text-align: center;">
   <a href="https://leetcode.com/cosmocoders/" target="_blank" style="display: inline-block; margin: 0 10px;">
