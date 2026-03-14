@@ -86,7 +86,6 @@ Here are some of the tools and technologies I work with:
 [![Madhav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ermadhav&theme=github-compact)](https://github.com/ermadhav/github-readme-activity-graph)
 
 ###
-
 ## 🌐 Connect with Me
 <a href="https://www.linkedin.com/in/ermadhav/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" height="30"></a>
 <a href="https://madhavtiwari.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-orange" height="30"></a>
