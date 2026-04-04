@@ -7,7 +7,7 @@ I'm Madhav Tiwari, a passionate MERN Developer who loves creating, learning, and
 - 📫 How to reach me: contact.madhavtiwari@gmail.com
 
 ## 🛠️ Technologies & Tools
-
+ 
 Here are some of the tools and technologies I work with:
 - Programming Languages: ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) ![JAVA](https://img.shields.io/badge/-Java-blue) ![Python](https://img.shields.io/badge/-Python-purple)  
 - Frameworks: Node.js, React, Express.js, Redux, Bootstrap, Tailwind CSS
