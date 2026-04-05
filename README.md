@@ -25,8 +25,8 @@ Here are some of the tools and technologies I work with:
 
 <!-- <h2 align="center">🚀 LeetCode Achievements</h2> -->
 
-<p align="center">
-  <a href="https://leetcode.com/cosmocoders/" target="_blank">
+<div style="text-align: center;">
+ <a href="https://leetcode.com/cosmocoders/" target="_blank">
     <img src="https://assets.leetcode.com/static_assets/others/2550.gif" height="120" alt="50 Days Badge"/>
   </a>
   <a href="https://leetcode.com/cosmocoders/" target="_blank">
@@ -38,30 +38,22 @@ Here are some of the tools and technologies I work with:
   <a href="https://leetcode.com/cosmocoders/" target="_blank">
     <img src="https://assets.leetcode.com/static_assets/marketing/2024365.gif" height="120" alt="365 Days Badge"/>
   </a>
-</p>
 
----
 
-<!-- <h3 align="center">🏅 Active Streak</h3> -->
 
-<p align="center">
   <a href="https://leetcode.com/cosmocoders/" target="_blank">
     <img src="https://assets.leetcode.com/static_assets/others/2550.gif" height="140" alt="Active 50 Days"/>
   </a>
-</p>
 
----
 
-<!-- <h3 align="center">📅 Annual Badges</h3> -->
 
-<p align="center">
   <a href="https://leetcode.com/cosmocoders/" target="_blank">
     <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" height="120" alt="Annual 200"/>
   </a>
   <a href="https://assets.leetcode.com/static_assets/marketing/2024365.gif" target="_blank">
     <img src="https://assets.leetcode.com/static_assets/marketing/2024365.gif" height="120" alt="Annual 365"/>
   </a>
-</p>
+</div>
 
 ## 📊 My Coding Stats
 
