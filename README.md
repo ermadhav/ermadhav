@@ -29,6 +29,10 @@ Here are some of the tools and technologies I work with:
  <a href="https://leetcode.com/cosmocoders/" target="_blank">
     <img src="https://assets.leetcode.com/static_assets/others/2550.gif" height="140" alt="50 Days Badge"/>
   </a>
+
+   <a href="https://leetcode.com/cosmocoders/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/others/2550.gif" height="140" alt="Active 50 Days"/>
+  </a>
  
   <a href="https://leetcode.com/cosmocoders/" target="_blank">
     <img src="https://assets.leetcode.com/static_assets/others/25100.gif" height="140" alt="100 Days Badge"/>
@@ -43,17 +47,9 @@ Here are some of the tools and technologies I work with:
   </a>
 
   <a href="https://leetcode.com/cosmocoders/" target="_blank">
-    <img src="https://assets.leetcode.com/static_assets/others/2550.gif" height="140" alt="Active 50 Days"/>
-  </a>
-
-  <a href="https://leetcode.com/cosmocoders/" target="_blank">
     <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" height="140" alt="Annual 200"/>
   </a>
-  
-  <a href="https://assets.leetcode.com/static_assets/marketing/2024365.gif" target="_blank">
-    <img src="https://assets.leetcode.com/static_assets/marketing/2024365.gif" height="140"/>
-  </a>
-  
+    
 </div>
 
 ## 📊 My Coding Stats
