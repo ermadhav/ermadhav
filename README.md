@@ -51,7 +51,7 @@ Here are some of the tools and technologies I work with:
   </a>
   
   <a href="https://assets.leetcode.com/static_assets/marketing/2024365.gif" target="_blank">
-    <img src="https://assets.leetcode.com/static_assets/marketing/2024365.gif" height="140" alt="Annual 365"/>
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024365.gif" height="140"/>
   </a>
   
 </div>
