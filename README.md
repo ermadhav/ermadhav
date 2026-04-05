@@ -23,8 +23,6 @@ Here are some of the tools and technologies I work with:
 
 ## 🏆Leetcode Badges 
 
-<!-- <h2 align="center">🚀 LeetCode Achievements</h2> -->
-
 <div style="text-align: center;">
  <a href="https://leetcode.com/cosmocoders/" target="_blank">
     <img src="https://assets.leetcode.com/static_assets/others/2550.gif" height="140" alt="50 Days Badge"/>
@@ -49,9 +47,52 @@ Here are some of the tools and technologies I work with:
   <a href="https://leetcode.com/cosmocoders/" target="_blank">
     <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" height="140" alt="Annual 200"/>
   </a>
-  <a href="https://leetcode.com/mohitkumhar/" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" alt="LeetCode 365 Days Badge" height="150" width="150" /></a>
+  
+  <a href="https://leetcode.com/mohitkumhar/" target="_blank">
+   <img src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" alt="LeetCode 365 Days Badge" height="140" width="150" />
+  </a>
 
-    
+  ## 🏆 LeetCode Badges
+
+<div style="text-align: center; display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
+
+  <!-- 50 Days Badge -->
+  <a href="https://leetcode.com/cosmocoders/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/others/2550.gif"
+         height="140"
+         alt="50 Days Badge"/>
+  </a>
+
+  <!-- 100 Days Badge -->
+  <a href="https://leetcode.com/cosmocoders/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/others/25100.gif"
+         height="140"
+         alt="100 Days Badge"/>
+  </a>
+
+  <!-- 200 Days Badge -->
+  <a href="https://leetcode.com/cosmocoders/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif"
+         height="140"
+         alt="200 Days Badge"/>
+  </a>
+
+  <!-- 365 Days Badge -->
+  <a href="https://leetcode.com/cosmocoders/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024365.gif"
+         height="140"
+         alt="365 Days Badge"/>
+  </a>
+
+  <!-- Alternate 365 Badge -->
+  <a href="https://leetcode.com/mohitkumhar/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/marketing/365_new.gif"
+         height="140"
+         alt="LeetCode 365 Days Badge"/>
+  </a>
+
+</div>
+  
 </div>
 
 ## 📊 My Coding Stats
