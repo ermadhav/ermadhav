@@ -23,7 +23,7 @@ Here are some of the tools and technologies I work with:
 
 ## 🏆Leetcode Badges 
 
-<h2 align="center">🚀 LeetCode Achievements</h2>
+<!-- <h2 align="center">🚀 LeetCode Achievements</h2> -->
 
 <p align="center">
   <a href="https://leetcode.com/cosmocoders/" target="_blank">
@@ -42,7 +42,7 @@ Here are some of the tools and technologies I work with:
 
 ---
 
-<h3 align="center">🏅 Active Streak</h3>
+<!-- <h3 align="center">🏅 Active Streak</h3> -->
 
 <p align="center">
   <a href="https://leetcode.com/cosmocoders/" target="_blank">
@@ -52,7 +52,7 @@ Here are some of the tools and technologies I work with:
 
 ---
 
-<h3 align="center">📅 Annual Badges</h3>
+<!-- <h3 align="center">📅 Annual Badges</h3> -->
 
 <p align="center">
   <a href="https://leetcode.com/cosmocoders/" target="_blank">
