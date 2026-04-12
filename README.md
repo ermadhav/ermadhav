@@ -49,8 +49,8 @@ Here are some of the tools and technologies I work with:
 
   <!-- ✅ Added Annual Badge 2025 -->
   <a href="https://leetcode.com/cosmocoders/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-Annual%202025-gold?style=for-the-badge&logo=leetcode&logoColor=black" height="140" alt="Annual 2025 Badge"/>
-  </a>
+  <img src="https://img.shields.io/badge/LeetCode-365%2B%20Days%202025-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="140" alt="LeetCode 2025 Badge"/>
+</a>
   
   <a href="https://leetcode.com/cosmocoders/" target="_blank">
    <img src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" alt="LeetCode 365 Days Badge" height="140" width="150" />
