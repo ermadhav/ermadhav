@@ -34,6 +34,10 @@ Here are some of the tools and technologies I work with:
   <a href="https://leetcode.com/cosmocoders/" target="_blank">
     <img src="https://assets.leetcode.com/static_assets/others/25100.gif" height="140" alt="100 Days Badge"/>
   </a>
+
+  <a href="https://leetcode.com/cosmocoders/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/others/25100.gif" height="140" alt="100 Days Badge"/>
+  </a>
  
   <a href="https://leetcode.com/cosmocoders/" target="_blank">
     <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" height="140" alt="200 Days Badge"/>
