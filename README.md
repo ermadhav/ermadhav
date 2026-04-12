@@ -51,7 +51,7 @@ Here are some of the tools and technologies I work with:
     <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" height="140" alt="Annual 200"/>
   </a>
   
-  <a href="https://leetcode.com/mohitkumhar/" target="_blank">
+  <a href="https://leetcode.com/cosmocoders/" target="_blank">
    <img src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" alt="LeetCode 365 Days Badge" height="140" width="150" />
   </a>
 
@@ -89,7 +89,7 @@ Here are some of the tools and technologies I work with:
     <img src="https://assets.leetcode.com/static_assets/marketing/2025.gif" height="140" alt="Annual 2025 Badge"/>
   </a>
   
-  <a href="https://leetcode.com/mohitkumhar/" target="_blank">
+  <a href="https://leetcode.com/cosmocoders/" target="_blank">
    <img src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" alt="LeetCode 365 Days Badge" height="140" width="150" />
   </a>
 
