@@ -42,15 +42,14 @@ Here are some of the tools and technologies I work with:
   <a href="https://leetcode.com/cosmocoders/" target="_blank">
     <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" height="140" alt="200 Days Badge"/>
   </a>
+  
+  <a href="https://leetcode.com/cosmocoders/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" height="140" alt="200 Days Badge"/>
+  </a>
  
   <a href="https://leetcode.com/cosmocoders/" target="_blank">
     <img src="https://assets.leetcode.com/static_assets/marketing/2024365.gif" height="140" alt="365 Days Badge"/>
   </a>
-
-  <!-- ✅ Added Annual Badge 2025 -->
-  <a href="https://leetcode.com/cosmocoders/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-365%2B%20Days%202025-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="140" alt="LeetCode 2025 Badge"/>
-</a>
   
   <a href="https://leetcode.com/cosmocoders/" target="_blank">
    <img src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" alt="LeetCode 365 Days Badge" height="140" width="150" />
