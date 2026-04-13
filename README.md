@@ -83,25 +83,6 @@ Here are some of the tools and technologies I work with:
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="70" height="70"/>
 </p>
 
-## 🌟 Top Projects
-
-<p align="center">
-  <a href="https://github.com/ermadhav/ChatApp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ermadhav&repo=ChatApp&theme=dark" width="400"/>
-  </a>
-  <a href="https://github.com/ermadhav/Leetcode_Solution">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ermadhav&repo=Leetcode_Solution&theme=dark" width="400"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/ermadhav/Moviedux">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ermadhav&repo=Moviedux&theme=dark" width="400"/>
-  </a>
-  <a href="https://github.com/ermadhav/ISS_Tracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ermadhav&repo=ISS_Tracker&theme=dark" width="400"/>
-  </a>
-</p>
-
 [![Madhav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ermadhav&theme=github-compact)](https://github.com/ermadhav/github-readme-activity-graph)
 
 ![snake gif](https://github.com/ermadhav/ermadhav/blob/output/github-snake-dark.svg)
