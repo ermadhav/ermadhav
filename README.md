@@ -83,7 +83,7 @@ Here are some of the tools and technologies I work with:
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="70" height="70"/>
 </p>
 
-[![Madhav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ermadhav&theme=github-compact)](https://github.com/ermadhav/github-readme-activity-graph)
+<!-- [![Madhav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ermadhav&theme=github-compact)](https://github.com/ermadhav/github-readme-activity-graph) -->
 
 ## 🐍 This Snake Only Eats Green Squares 😎
 ![snake gif](https://github.com/ermadhav/ermadhav/blob/output/github-snake-dark.svg)
