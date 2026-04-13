@@ -2,8 +2,11 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # 
+    - cron: "0 */12 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write   
 
 jobs:
   build:
@@ -13,7 +16,7 @@ jobs:
       - name: Generate snake animation
         uses: Platane/snk@v3
         with:
-          github_user_name: ermadhav
+          github_user_name: ermadhav   
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
