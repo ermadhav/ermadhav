@@ -65,7 +65,7 @@ Here are some of the tools and technologies I work with:
 </div>
 
 ## 🚀 Languages and Tools
-<p align="left"> 
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 15px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="70" height="70"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="70" height="70"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="70" height="70"/>
@@ -82,7 +82,6 @@ Here are some of the tools and technologies I work with:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="70" height="70"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="70" height="70"/>
 </p>
-
 <!-- [![Madhav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ermadhav&theme=github-compact)](https://github.com/ermadhav/github-readme-activity-graph) -->
 
 ## 🐍 This Snake Only Eats Green Squares 😎
