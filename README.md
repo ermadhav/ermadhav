@@ -23,6 +23,9 @@ Here are some of the tools and technologies I work with:
 ## 🏆Leetcode Badges 
 
 <div style="text-align: center;">
+  <a href="https://leetcode.com/mohitkumhar/" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/500_new.gif" alt="LeetCode 500 Days Badge"           height="150" width="150" />
+  </a>
+
  <a href="https://leetcode.com/cosmocoders/" target="_blank">
     <img src="https://assets.leetcode.com/static_assets/others/2550.gif" height="140" alt="50 Days Badge"/>
   </a>
