@@ -1,12 +1,16 @@
 👋 Welcome to My GitHub Profile!
-I'm Madhav Tiwari, a passionate MERN Developer who loves creating, learning, and sharing knowledge through code. 🌟
+
+I'm Madhav Tiwari, a passionate MERN Developer, problem solver, and indie builder who loves creating impactful products and sharing knowledge through code. 🌟
+
 ## 🚀 About Me
-- 👨‍💻 Cracked 650+ LeetCode and 250+ on GeeksForGeeks problems in Java.
-- 💬 Ask me about **Web Development**
-- ⚡ Fun fact: Obsessed with code and cosmos, so just call me Cosmo Coder. 🚀💻"
-- 📫 How to reach me: contact.madhavtiwari@gmail.com
+- 👨‍💻 Solved **650+ LeetCode** and **250+ GeeksForGeeks** problems in Java.
+- 🚀 Currently building **Clarifi** — a smart portfolio tracker for Indian investors to see real returns, understand portfolio risks, and stay updated on stocks that matter.
+- 🛠 Built **DevStreaks** — track GitHub commits + LeetCode streaks in one place.
+- 💬 Ask me about **MERN Stack, Web Development, and Product Building**
+- ⚡ Fun fact: Obsessed with code and cosmos, so just call me **Cosmo Coder** 🚀💻
+- 📫 Reach me at: **contact.madhavtiwari@gmail.com**
 - 🌐 Portfolio: https://madhavtiwari.xyz/
-- 👉 Try it Out https://www.devstreaks.site/
+- 👉 DevStreaks: https://www.devstreaks.site/
 ## 🛠️ Technologies & Tools
 Here are some of the tools and technologies I work with:
 - Programming Languages: ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) ![JAVA](https://img.shields.io/badge/-Java-blue) ![Python](https://img.shields.io/badge/-Python-purple)  
