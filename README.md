@@ -1,6 +1,6 @@
 👋 Welcome to My GitHub Profile!
 
-I'm Madhav Tiwari, a passionate MERN Developer, problem solver, and indie builder who loves creating impactful products and sharing knowledge through code. 🌟
+I'm Madhav Tiwari, a passionate MERN Developer, problem solver, and indie builder who loves creating impactful products and sharing knowledge through code.🌟
 
 ## 🚀 About Me
 - 👨‍💻 Solved **700+ LeetCode** and **250+ GeeksForGeeks** problems in Java.
