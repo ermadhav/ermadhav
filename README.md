@@ -108,5 +108,5 @@ Here are some of the tools and technologies I work with:
 ![Profile view counter](https://komarev.com/ghpvc/?username=ermadhav)
 ###
 
-🌟 **“Code is like humor. When you have to explain it, it’s bad.”**  
+🌟 **“Code is like humor. When you have to explain it, it’s bad.”**   
 Happy coding! 
