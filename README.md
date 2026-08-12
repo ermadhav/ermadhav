@@ -5,7 +5,7 @@ I'm Madhav Tiwari, a passionate MERN Developer, problem solver, and indie builde
 
 ## 🚀 About Me 
 
-- 👨‍💻 Solved **700+ LeetCode** and **250+ GeeksForGeeks** problems in Java.
+- 👨‍💻 Solved **800+ LeetCode** and **250+ GeeksForGeeks** problems in Java.
 - 🚀 Currently building **Clarifi** — a smart portfolio tracker for Indian investors to see real returns, understand portfolio risks, and stay updated on stocks that matter.
 - 🛠 Built **DevStreaks** — track GitHub commits + LeetCode streaks in one place.
 - 👉 DevStreaks: https://www.devstreaks.site/
